@@ -30,7 +30,7 @@
 
 ESPVGAX vga;
 
-static const char str30[] PROGMEM="Choose ESP8266 VGAx Game"; 
+static const char str30[] PROGMEM="NodeComputer Entertaiment|| Powered By HoangManhPhuocStudio"; 
 static const char str31[] PROGMEM="Pong 2-player"; 
 static const char str32[] PROGMEM="Pong 1-player"; 
 static const char str33[] PROGMEM="Breakout"; 
